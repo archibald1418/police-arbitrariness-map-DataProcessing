@@ -11,7 +11,6 @@ import numpy as np
 import pymystem3
 
 import lemmatize_descriptions
-import bigram_descriptions
 import keywords_dict
 import classify_table
 import sum_offences_by_ovd
